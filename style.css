@@ -77,7 +77,7 @@ form.contact-form {
     width: 95.5%;
     padding: 2%;
     margin-bottom: 3%;
-    outline: none;
+    outline: #0c966c;
     border: 1px solid #2c7490;
     border-radius: 10px;
 }
@@ -98,6 +98,7 @@ textarea#text-area {
     padding: 2%;
     border: 1px solid #2c7490;
     border-radius: 10px;
+    outline: #0c966c;
 }
 
 .footer-text{
