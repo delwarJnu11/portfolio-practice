@@ -101,9 +101,14 @@ textarea#text-area {
 }
 
 .footer-text{
+    color: whitesmoke;
     text-align: center;
     padding: 2%;
     font-size: 18px;
     font-weight: 600;
 
+}
+
+footer{
+    background-color: rgb(39, 35, 35);
 }
